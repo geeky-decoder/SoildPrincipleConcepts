@@ -1,6 +1,6 @@
 
 // functionality extended by implementing the interface and followed Open/Closed Principle
-public class InvoiceFileDao implements SmartphoneInvoiceDao {
+public class InvoiceFileDao implements InvoiceInterfaceDao {
 
     @Override
     public void save(Smartphone smartphone) {
