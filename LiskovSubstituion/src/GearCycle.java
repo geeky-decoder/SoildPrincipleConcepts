@@ -1,6 +1,6 @@
 
 // This class as subtype of interface narrowed down the capability of Parent by overriding the methods and not giving the expected result
-public class GearCycle implements TwoWheeler {
+public class GearCycle implements TwoWheelerInterface {
 
     private boolean isEngineOn;
     private int speed;

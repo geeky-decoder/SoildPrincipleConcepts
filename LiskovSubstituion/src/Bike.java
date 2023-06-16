@@ -1,6 +1,6 @@
 
 // This class as subtype of interface extended the capability of Parent by overriding the methods that will give desired result
-public class Bike implements TwoWheeler {
+public class Bike implements TwoWheelerInterface {
 
     private boolean isEngineOn;
     private int speed;

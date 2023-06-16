@@ -1,6 +1,6 @@
 
 // This class was forced to implement the methods which was not needed by this class doe to larger interface and thus violates the principle
-public class Waiter implements RestaurantEmployee {
+public class Waiter implements RestaurantEmployeeInterface {
 
     @Override
     public void washDishes() {
