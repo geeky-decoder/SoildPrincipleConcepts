@@ -23,4 +23,3 @@ public class Laptop {
         laptop2.mouseInterface.typeOfMouse();
     }
 }
-`
